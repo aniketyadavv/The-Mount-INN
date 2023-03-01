@@ -11,4 +11,19 @@ This is a website for a fictional hotel. The purpose of this website is to provi
 
 # The Mount INN - Website
 
+# Getting Started
 
+To get started with this website, simply clone the repository to your local machine and open the Home.html file in your web browser. <a>You can also view the website live at https://themount.netlify.app/.</a>
+
+# Features
+
+The hotel website includes the following features:
+
+- Responsive design that adjusts to different screen sizes
+- Interactive image slider on the homepage
+- Room reservation form that allows customers to book a room directly on the website
+- Contact form that allows customers to send a message to the hotel staff
+
+# Contributing
+
+If you would like to contribute to this project, please feel free to fork the repository and submit a pull request. All contributions are welcome!
