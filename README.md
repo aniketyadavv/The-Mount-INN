@@ -1,5 +1,11 @@
 # The-Mount-INN ⛰️
-Explore our website by clicking this link.https://themount.netlify.app/ <br>
+
+<p align="center">
+    <img width="200" src="https://github.com/aniketyadavv/The-Mount-INN/blob/main/images/mountinnlogo.png" alt="Hotel logo">
+</p>
+<p align="center">
+https://themount.netlify.app/
+</p>
 
 This is a website for a fictional hotel. The purpose of this website is to provide information about the hotel and its services to potential customers. The website includes several pages, including a homepage, an about us page, a rooms and rates page, and a contact us page.
 
