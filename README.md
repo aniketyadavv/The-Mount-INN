@@ -16,6 +16,14 @@ This is a website for a fictional hotel. The purpose of this website is to provi
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 
 # The Mount INN - Website
+ <H2> Home </H2>
+<img src="https://github.com/aniketyadavv/The-Mount-INN/blob/main/images/Home.png">
+ <H2> About </H2>
+<img  src="https://github.com/aniketyadavv/The-Mount-INN/blob/main/images/About.png">
+ <H2> Gallery </H2>
+<img  src="https://github.com/aniketyadavv/The-Mount-INN/blob/main/images/Galllery.png">
+ <H2> Contact </H2>
+<img  src="https://github.com/aniketyadavv/The-Mount-INN/blob/main/images/Contact.png">
 
 # Getting Started
 
