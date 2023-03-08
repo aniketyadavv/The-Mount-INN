@@ -1,4 +1,4 @@
-# The-Mount-INN ⛰️
+# The-Mount-INN-Hotel ⛰️
 
 <p align="center">
     <img width="200" src="https://github.com/aniketyadavv/The-Mount-INN/blob/main/images/mountinnlogo.png" alt="Hotel logo">
